@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-iapple
-=======
-vcgdvhdebudh
->>>>>>> master
